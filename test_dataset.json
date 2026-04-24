@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "customer": "Alice Johnson",
+    "category": "shipping",
+    "priority": "high",
+    "sentiment": "negative",
+    "message": "My package was supposed to arrive on Tuesday, but it still has not been delivered."
+  },
+  {
+    "id": 2,
+    "customer": "Brian Lee",
+    "category": "billing",
+    "priority": "medium",
+    "sentiment": "negative",
+    "message": "I was charged twice for the same order and need a refund."
+  },
+  {
+    "id": 3,
+    "customer": "Carla Gomez",
+    "category": "product quality",
+    "priority": "medium",
+    "sentiment": "negative",
+    "message": "The headphones stopped working after two days of use."
+  },
+  {
+    "id": 4,
+    "customer": "David Smith",
+    "category": "general feedback",
+    "priority": "low",
+    "sentiment": "positive",
+    "message": "The website was easy to use and checkout was smooth."
+  },
+  {
+    "id": 5,
+    "customer": "Ella Brown",
+    "category": "returns",
+    "priority": "high",
+    "sentiment": "neutral",
+    "message": "I want to return a jacket that did not fit. Please share the return instructions."
+  },
+  {
+    "id": 6,
+    "customer": "Farah Khan",
+    "category": "shipping",
+    "priority": "low",
+    "sentiment": "neutral",
+    "message": "Can you tell me the tracking status for order 48291?"
+  },
+  {
+    "id": 7,
+    "customer": "George Miller",
+    "category": "billing",
+    "priority": "high",
+    "sentiment": "negative",
+    "message": "My invoice shows an extra service fee that I do not recognize."
+  },
+  {
+    "id": 8,
+    "customer": "Hana Park",
+    "category": "product quality",
+    "priority": "low",
+    "sentiment": "positive",
+    "message": "The laptop sleeve looks great and feels durable."
+  },
+  {
+    "id": 9,
+    "customer": "Ivan Petrov",
+    "category": "account access",
+    "priority": "high",
+    "sentiment": "negative",
+    "message": "I cannot log into my account even after resetting my password."
+  },
+  {
+    "id": 10,
+    "customer": "Julia Chen",
+    "category": "shipping",
+    "priority": "medium",
+    "sentiment": "negative",
+    "message": "The delivery was delayed by a week and I was not notified."
+  }
+]

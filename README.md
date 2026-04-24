@@ -4,7 +4,7 @@ A file-based question answering system that combines lightweight retrieval with 
 
 This project supports **CSV, Excel, JSON, and TXT** inputs. It uses a retrieval-first pipeline to identify the most relevant records from the uploaded file, then passes those records to a language model to generate a grounded response.
 
-<img width="1866" height="862" alt="Screenshot 2026-04-24 124443" src="https://github.com/user-attachments/assets/61de6687-4fda-4990-84b1-7acd08916800" />
+<img width="1575" height="862" alt="Screenshot 2026-04-24 124443" src="https://github.com/user-attachments/assets/8e4c9114-00dc-4442-b856-d3b69376565c" />
 
 ## Overview
 

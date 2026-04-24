@@ -1,6 +1,6 @@
 # Dataset Q&A Chatbot
 
-A lightweight file-based question answering application that allows users to upload structured or semi-structured files and ask natural-language questions about their contents.
+A file-based question answering system that combines lightweight retrieval with language-model reasoning to help users explore uploaded datasets through natural-language queries.
 
 This project supports **CSV, Excel, JSON, and TXT** inputs. It uses a retrieval-first pipeline to identify the most relevant records from the uploaded file, then passes those records to a language model to generate a grounded response.
 
